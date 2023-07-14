@@ -1,0 +1,11 @@
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    register-with-eureka: false  #this service should not register with eureka server
+    fetch-registry: false
+    service-url:
+      defaultZone: http://localhost:8761
+
+server:
+  port: 8761

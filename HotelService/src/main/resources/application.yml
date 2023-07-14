@@ -1,0 +1,32 @@
+spring:
+  profiles:
+    active:
+      - dev
+  config:
+    import: configserver:http://localhost:8088
+  application:
+    name: HOTEL-SERVICE
+  datasource:
+    url: jdbc:mysql://localhost:3306/hotelmanager
+    username: root
+    password: Mangesh@09
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  r2dbc:
+    properties:
+      useSSL: false
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+
+server:
+  port: 8083
+
+
+
+
