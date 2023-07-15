@@ -4,6 +4,7 @@ package com.hotelmanagement.UserService.Controller;
 import com.hotelmanagement.UserService.Model.userModel;
 import com.hotelmanagement.UserService.Service.userService;
 import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
+import io.github.resilience4j.ratelimiter.annotation.RateLimiter;
 import io.github.resilience4j.retry.annotation.Retry;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.ComponentScan;
@@ -39,6 +40,7 @@ public class userController {
     @GetMapping("/getUserById/{userId}")
     //@CircuitBreaker(name = "ratingAndHotelBreaker",fallbackMethod = "ratingHotelFailureFallback")
     @Retry(name = "ratingHotelFailureFallback", fallbackMethod = "ratingHotelFailureFallback")
+  //  @RateLimiter(name = "userRateLimiter", fallbackMethod = "ratingHotelFailureFallback")
     public userModel getUser (@PathVariable("userId") int userId){
         return userServe.getUser(userId);
     }
@@ -63,6 +65,15 @@ public class userController {
     }
 
 
+    /*@GetMapping("/userId/{usersId}")
+    public int getUsers(@PathVariable("usersId") int usersId){
+        return userServe.getUsers(usersId);
+    }
+*/
 
+    @GetMapping("/userId/{userName}")
+    public String getUserByUsername(@PathVariable("userName") String userName){
+        return userServe.getUserByUsername(userName);
+    }
 
 }

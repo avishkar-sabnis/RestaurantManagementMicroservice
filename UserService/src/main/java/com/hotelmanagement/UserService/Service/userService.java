@@ -86,6 +86,13 @@ public class userService {
 
     }
 
+    public String getUserByUsername(String userName){
+    userModel use = repo.findByUserName(userName);
+    String usersName = use.getUserName();
+    return usersName;
+    }
+
+
 
     public void deletUserById(int userId)  {
         repo.deleteById(userId);
