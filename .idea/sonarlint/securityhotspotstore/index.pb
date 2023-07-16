@@ -3,8 +3,6 @@ x
 HRatingService/src/main/java/com/ratingservice/RatingService/Ratings.java,f\6\f601fcc4ce5b0ba608bc85566838295c936d49c1
 E
 HotelService/mvnw.cmd,5\d\5dbe046405ec6e3ce39127f7d66dcb393d397eb4
-~
-NUserService/src/main/java/com/hotelmanagement/UserService/Model/userModel.java,1\8\18be72114aa4bbaa48e481ec19916c0eade22c9e
 à
 XHotelService/src/main/java/com/RestaurantManager/HotelService/HotelService/HotelDAO.java,0\4\04cb7f73c894cfc731140aac1cae7db651f50279
 å
@@ -75,8 +73,6 @@ D
 ZUserService/src/test/java/com/hotelmanagement/UserService/UserServiceApplicationTests.java,1\9\199fb659a3618e2012dd018cdda54a626e5db8e8
 â
 YUserService/src/main/java/com/hotelmanagement/UserService/externalFeign/HotelService.java,4\5\454efac19f294eddb78417b6da155cf1e805168b
-|
-LUserService/src/main/java/com/hotelmanagement/UserService/Model/Ratings.java,0\3\03482492032da5fbcac67e9e270dece163d5ea9c
 H
 RatingService/.gitignore,8\0\8065b413511371d5037efc028895e465e61f7a9b
 è
@@ -95,8 +91,6 @@ A
 HotelService/mvnw,6\e\6e4e903b17fd9eec4ac6372ff34d91113ec2aa80
 E
 RatingService/pom.xml,1\7\17c94409518c1e7435327edc6eeb0f44691a6c0d
-
-OUserService/src/main/java/com/hotelmanagement/UserService/Model/HotelModel.java,a\8\a895101c66e676f719244dad8e206f34819886e0
 D
 HotelService/pom.xml,0\b\0b1b04a7738d5a206252579a5822e48aacf34991
 ó

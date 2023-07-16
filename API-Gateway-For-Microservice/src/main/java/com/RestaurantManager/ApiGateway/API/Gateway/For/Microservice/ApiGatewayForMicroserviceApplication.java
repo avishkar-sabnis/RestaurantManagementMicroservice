@@ -2,6 +2,9 @@ package com.RestaurantManager.ApiGateway.API.Gateway.For.Microservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
+import org.springframework.security.crypto.password.NoOpPasswordEncoder;
+import org.springframework.security.crypto.password.PasswordEncoder;
 
 @SpringBootApplication
 public class ApiGatewayForMicroserviceApplication {
@@ -10,4 +13,8 @@ public class ApiGatewayForMicroserviceApplication {
 		SpringApplication.run(ApiGatewayForMicroserviceApplication.class, args);
 	}
 
+	@Bean
+	public PasswordEncoder passwordEncoder() {
+		return NoOpPasswordEncoder.getInstance();
+	}
 }

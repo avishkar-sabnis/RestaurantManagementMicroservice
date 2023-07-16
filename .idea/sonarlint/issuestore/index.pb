@@ -27,8 +27,6 @@ _HotelService/src/main/java/com/RestaurantManager/HotelService/HotelService/Hote
 XHotelService/src/main/java/com/RestaurantManager/HotelService/HotelService/HotelDAO.java,0\4\04cb7f73c894cfc731140aac1cae7db651f50279
 Š
 ZHotelService/src/main/java/com/RestaurantManager/HotelService/HotelService/HotelModel.java,3\6\365f7e452c2beba07e24b0e1d559068af142df6c
-
-OUserService/src/main/java/com/hotelmanagement/UserService/Model/HotelModel.java,a\8\a895101c66e676f719244dad8e206f34819886e0
 Œ
 \HotelService/src/main/java/com/RestaurantManager/HotelService/HotelService/HotelService.java,3\9\3932d8adfd06c8e6aa18874f4a7dbaf429c47a72
 ‰
@@ -81,8 +79,6 @@ E
 RatingService/pom.xml,1\7\17c94409518c1e7435327edc6eeb0f44691a6c0d
 x
 HRatingService/src/main/java/com/ratingservice/RatingService/Ratings.java,f\6\f601fcc4ce5b0ba608bc85566838295c936d49c1
-|
-LUserService/src/main/java/com/hotelmanagement/UserService/Model/Ratings.java,0\3\03482492032da5fbcac67e9e270dece163d5ea9c
 ‚
 RRatingService/src/main/java/com/ratingservice/RatingService/RatingsController.java,d\4\d41cc014b3b3c88f20498efadc9965dd0995c3e8
 {
@@ -95,8 +91,6 @@ YRatingService/src/main/java/com/ratingservice/RatingService/RatingServiceApplic
 [UserService/src/main/java/com/hotelmanagement/UserService/externalFeign/RatingsService.java,8\0\80c325ee6117952cde055d733ec7e24573b0ba8b
 „
 TRatingService/src/main/java/com/ratingservice/RatingService/RatingsServiceClass.java,3\d\3d016de9eb5e17c14efd5dac0816c918d411bbe3
-~
-NUserService/src/main/java/com/hotelmanagement/UserService/Model/userModel.java,1\8\18be72114aa4bbaa48e481ec19916c0eade22c9e
 Š
 ZUserService/src/test/java/com/hotelmanagement/UserService/UserServiceApplicationTests.java,1\9\199fb659a3618e2012dd018cdda54a626e5db8e8
 —
