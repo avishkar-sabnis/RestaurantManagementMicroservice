@@ -17,8 +17,6 @@ F
 UserService/.gitignore,6\a\6a7fb93ae22661897b27237d474bdc8baf620f2c
 »
 óAPI-Gateway-For-Microservice/src/test/java/com/RestaurantManager/ApiGateway/API/Gateway/For/Microservice/ApiGatewayForMicroserviceApplicationTests.java,d\2\d2a9994a4645cc8b079a1c53cfe33c9396b1351d
-í
-bConfigServer/src/main/java/com/example/RestaurantManager/ConfigServer/ConfigServerApplication.java,b\6\b6e0b802fca2f7f110283d5ff9e8596532bc3a62
 ó
 gConfigServer/src/test/java/com/example/RestaurantManager/ConfigServer/ConfigServerApplicationTests.java,d\6\d64a52ea19e554bbf57fc82fb8876e42ebd39a98
 è
@@ -29,8 +27,6 @@ XHotelService/src/main/java/com/RestaurantManager/HotelService/HotelService/Hote
 ZHotelService/src/main/java/com/RestaurantManager/HotelService/HotelService/HotelModel.java,3\6\365f7e452c2beba07e24b0e1d559068af142df6c
 å
 \HotelService/src/main/java/com/RestaurantManager/HotelService/HotelService/HotelService.java,3\9\3932d8adfd06c8e6aa18874f4a7dbaf429c47a72
-â
-YUserService/src/main/java/com/hotelmanagement/UserService/externalFeign/HotelService.java,4\5\454efac19f294eddb78417b6da155cf1e805168b
 ú
 lHotelService/src/test/java/com/RestaurantManager/HotelService/HotelService/HotelServiceApplicationTests.java,c\9\c9d8ac4bc8d0616f84f1d2dc328dc7bb79f50edb
 r
@@ -87,11 +83,15 @@ KRatingService/src/main/java/com/ratingservice/RatingService/RatingsDAO.java,9\
 YRatingService/src/main/java/com/ratingservice/RatingService/RatingServiceApplication.java,f\0\f07944eb0b159892440451e1f79f31db70fcf4a6
 é
 ^RatingService/src/test/java/com/ratingservice/RatingService/RatingServiceApplicationTests.java,c\6\c6719cc96d568da3fbd0863cedcd4b4b3dfc1ade
-ã
-[UserService/src/main/java/com/hotelmanagement/UserService/externalFeign/RatingsService.java,8\0\80c325ee6117952cde055d733ec7e24573b0ba8b
 Ñ
 TRatingService/src/main/java/com/ratingservice/RatingService/RatingsServiceClass.java,3\d\3d016de9eb5e17c14efd5dac0816c918d411bbe3
 ä
 ZUserService/src/test/java/com/hotelmanagement/UserService/UserServiceApplicationTests.java,1\9\199fb659a3618e2012dd018cdda54a626e5db8e8
 ó
 gHotelService/src/main/java/com/RestaurantManager/HotelService/HotelService/HotelServiceApplication.java,c\0\c0827baaf9db4db7213a130c7048619b5d238f5d
+T
+$API-Gateway-For-Microservice/pom.xml,2\1\21442075c430b2f3507392bb1e2b320fb4e2a297
+Ü
+VUserService/src/main/java/com/hotelmanagement/UserService/JWTSecurity/JwtResponse.java,4\6\46ac494a4928f956dcf51e4055b6a47099fa60fa
+Ö
+UUserService/src/main/java/com/hotelmanagement/UserService/JWTSecurity/JWTUtility.java,6\e\6e588c38201539d915e13f0d879dd47e39a14a59

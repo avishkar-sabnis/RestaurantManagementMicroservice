@@ -9,8 +9,6 @@ XHotelService/src/main/java/com/RestaurantManager/HotelService/HotelService/Hote
 \HotelService/src/main/java/com/RestaurantManager/HotelService/HotelService/HotelService.java,3\9\3932d8adfd06c8e6aa18874f4a7dbaf429c47a72
 Ñ
 TRatingService/src/main/java/com/ratingservice/RatingService/RatingsServiceClass.java,3\d\3d016de9eb5e17c14efd5dac0816c918d411bbe3
-ã
-[UserService/src/main/java/com/hotelmanagement/UserService/externalFeign/RatingsService.java,8\0\80c325ee6117952cde055d733ec7e24573b0ba8b
 â
 YRatingService/src/main/java/com/ratingservice/RatingService/RatingServiceApplication.java,f\0\f07944eb0b159892440451e1f79f31db70fcf4a6
 ä
@@ -47,8 +45,6 @@ P
  MicroserviceConnector/.gitignore,7\d\7ddb274cc5cdbe6c6303190a99d6915db511b956
 U
 %API-Gateway-For-Microservice/mvnw.cmd,5\2\525d9fe83d6af30282807df9b0458ce140f4b593
-í
-bConfigServer/src/main/java/com/example/RestaurantManager/ConfigServer/ConfigServerApplication.java,b\6\b6e0b802fca2f7f110283d5ff9e8596532bc3a62
 J
 MicroserviceConnector/mvnw,f\9\f9fc8be535fbe3710d97b5237803c5b75cc3a3d8
 N
@@ -71,8 +67,6 @@ D
 UserService/mvnw.cmd,b\1\b14380a5db426b163ee1793db0c4f854b4803545
 ä
 ZUserService/src/test/java/com/hotelmanagement/UserService/UserServiceApplicationTests.java,1\9\199fb659a3618e2012dd018cdda54a626e5db8e8
-â
-YUserService/src/main/java/com/hotelmanagement/UserService/externalFeign/HotelService.java,4\5\454efac19f294eddb78417b6da155cf1e805168b
 H
 RatingService/.gitignore,8\0\8065b413511371d5037efc028895e465e61f7a9b
 è
@@ -95,3 +89,9 @@ D
 HotelService/pom.xml,0\b\0b1b04a7738d5a206252579a5822e48aacf34991
 ó
 gHotelService/src/main/java/com/RestaurantManager/HotelService/HotelService/HotelServiceApplication.java,c\0\c0827baaf9db4db7213a130c7048619b5d238f5d
+T
+$API-Gateway-For-Microservice/pom.xml,2\1\21442075c430b2f3507392bb1e2b320fb4e2a297
+Ü
+VUserService/src/main/java/com/hotelmanagement/UserService/JWTSecurity/JwtResponse.java,4\6\46ac494a4928f956dcf51e4055b6a47099fa60fa
+Ö
+UUserService/src/main/java/com/hotelmanagement/UserService/JWTSecurity/JWTUtility.java,6\e\6e588c38201539d915e13f0d879dd47e39a14a59

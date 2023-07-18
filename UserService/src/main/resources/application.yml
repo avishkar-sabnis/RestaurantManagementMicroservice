@@ -66,3 +66,6 @@ resilience4j:
         limitForPeriod: 2
         timeoutDuration: 0s
 
+jwt:
+  secret: secretkey123
+
