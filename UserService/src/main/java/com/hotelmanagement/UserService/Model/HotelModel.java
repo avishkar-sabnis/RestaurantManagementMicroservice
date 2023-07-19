@@ -1,10 +1,9 @@
 package com.hotelmanagement.UserService.Model;
 
 
-
-
 import jakarta.persistence.Id;
 import lombok.*;
+
 
 
 
